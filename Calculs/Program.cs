@@ -105,7 +105,7 @@ namespace Calculs
 
                 }
 
-                // traitement des choix
+                // traitement des choix 
             }
         }
     }
